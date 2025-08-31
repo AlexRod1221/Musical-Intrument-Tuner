@@ -5,6 +5,8 @@ Built using a Teensy 4.1, MAX9814 microphone amplifier.
 
 This project applies DSP techniques (FFT-based pitch detection) to analyze musical notes, map them to MIDI equivalents, and calculate cents deviation for accurate tuning.  
 
+I attempted a similar project as my first year Electrical Engineering(EE) project, but ultimately did not get near my desired results(i failed), so here I am trying this project again. Originally, I came up with this idea since I was a musician in high school, and I wanted to relate music and engineering.
+
 -- -- -- -- -- -- -- -- -- -- 
 
 ## Hardware  
