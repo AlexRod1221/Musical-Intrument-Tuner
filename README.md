@@ -10,11 +10,11 @@ I attempted a similar project as my first year Electrical Engineering(EE) projec
 -- -- -- -- -- -- -- -- -- -- 
 
 ## Hardware  
-- Teensy 4.1 microcontroller  
-- MAX9814 microphone amplifier (analog input)  
-- 32×64 RGB LED Matrix (for future UI)  
+- Teensy 4.1 microcontroller(had to solder in pins myself)
+- Breadboard
+- MAX9814 microphone module (analog input)  
 - 5V power supply (AA battery pack)  
-- Supporting components: resistors, capacitors, breadboard wiring  
+- Supporting components: 3.3 microfarad capacitor, breadboard wiring, 2 alligator clips  
 
 -- -- -- -- -- -- -- -- -- -- 
 
